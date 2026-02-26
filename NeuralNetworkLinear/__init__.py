@@ -96,7 +96,7 @@ def mse_loss(y_pred, y_true):
 # learning_rate=0.01 #How big of a step forwardis taken per update. 
 #                     #cannot be too high or too low.
 
-epochs = 2     # How many times we loop through the entire loop
+epochs = 600     # How many times we loop through the entire loop
 
 losses = []             #store each loss in order to plot it
 
