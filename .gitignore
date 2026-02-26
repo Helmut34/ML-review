@@ -5,3 +5,10 @@
 .tar
 .gz
 .tar.gz
+
+# Training data
+**/data/
+
+.env
+
+/.env
